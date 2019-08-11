@@ -801,13 +801,13 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
-id textView2
 id time
 id title
 id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tvShowNumber
 id uniform
 id up
 id useLogo
